@@ -28,44 +28,51 @@
 
 <hr/>
 
-<h2 align="center">About</h2>
+<h2>📖 | About me</h2> 
+🌐 With 3+ years of experience as a Senior Software Engineer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. My comprehensive expertise encompasses frontend, backend, and full-stack development, enabling me to contribute significantly to projects ranging from innovative startups to complex enterprise solutions. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.
 
-- **Plateforms :** **_Web, Desktop, <img src="https://www.gstatic.com/devrel-devsite/prod/v36e9b4a2fdc696650f09851e8c880b958655492821ded3455f80aaef87b6b52b/android/images/lockup.svg" width=70/>, Server_**
-- **Languages :** <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>, <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>,  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>, <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-
-- **Frameworks/Libraries :**  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>, <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" width=80/>,<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width=80/>,<img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg" width=80/>
-
-- **Databses :** <img style="background-color=blue" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width=100/>, <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width=80/>
-
-- **DevOps / Cloud :** <img style="background-color=blue" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width=100/>, <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width=80/>, <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width=80/>, <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" width=80/>
-
-- **Hobbies :** **_Manga📜Reading_,<img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/mini/xbox.svg" width=60/>** **_, Watching👀Anime_**
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
 
 <hr/>
 
-<p align="left" >
-<img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_downward.svg"/><h3 align="left">FAVOURITE LANGUAGES</h3>
-  <img align="right" alt="Angular" width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/>
- <img width="10%" alt="NestJS" align="right" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"/>
-  <img width="10%" alt="Flutter" align="right" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/>
-  <br />
-  <br />
-</p>
-<br/>
-<br/>
-<p  align="right" >
-  <img  align="right" alt="ArrowUpward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_upward.svg"/>
-  <br/>
-  <br/>
-  <h3 align="right">FAVOURITE FRAMEWORKS</h3>
-  <img  align="left" alt="TypeScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/typescriptlang.svg"/>
-  <img  align="left" alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/javascript.svg"/>
-  <img align="left" alt="Dart" width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/>
-  <br />
-  <br />
-  <br />
-  <br />
-</p>
+
+<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,java,cs,spring"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,redux"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,vercel,netlify"/></td>
+    </tr>
+</table>
+<br>
+
+
+<hr/>
+
+- **Hobbies :** **_Manga📜Reading_,<img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/mini/xbox.svg" width=60/>** **_, Watching👀Anime_**
 
 <hr/>
 
